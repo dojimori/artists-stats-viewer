@@ -1,8 +1,8 @@
-# 🚀 **Artists Explorer App**
+# **Artists Explorer App**
 
 A simple web application that allows users to explore detailed information about their favorite artists and albums.
 
-## ⚙️ **Tech Stack**
+##  **Tech Stack**
 
 ### **Frontend**
 - **EJS**: Templating engine for rendering dynamic content.
@@ -12,12 +12,12 @@ A simple web application that allows users to explore detailed information about
 - **Express.js**: Fast, unopinionated web framework for Node.js to handle server-side logic and API requests.
 - **Spotify API**: Used Spotify API to fetch records of artists and their albums.
 
-## ✨ **Features**
-- ✅ Search for artists.
-- ✅ View detailed profiles of artists.
-- ✅ Explore albums and their top tracks.
-- ✅ Preview tracks.
-- ✅ Artist and albums lists have their pagination.
+##  **Features**
+-  Search for artists.
+-  View detailed profiles of artists.
+-  Explore albums and their top tracks.
+-  Preview tracks.
+-  Artist and albums lists have their pagination.
 
 ## **Installation**
 
