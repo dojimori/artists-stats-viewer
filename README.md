@@ -40,7 +40,4 @@ A simple web application that allows users to explore detailed information about
 <img width="800" height="613" alt="image" src="https://github.com/user-attachments/assets/50714d82-ef44-454d-b796-c99b4cfc6894" />
 <img width="800" height="682" alt="image" src="https://github.com/user-attachments/assets/fd82e7d1-a7c7-47f7-8df4-6f12bd16fb8a" />
 
-## That's it! it was a fun side project!!!😸
-
-
 
