@@ -1,17 +1,17 @@
-# **Artists Explorer App**
+# Artists Explorer App
 
 A simple web application that allows users to explore detailed information about their favorite artists and albums.
 
 ##  **Tech Stack**
 
 ### **Frontend**
-- **EJS**: Templating engine for rendering dynamic content.
-- **TailwindCSS**: Utility-first CSS framework for building responsive and modern UI components.
-
+- EJS Templating Engine 
+- TailwindCSS
+  
 ### **Backend**
-- **Express.js**: Fast, unopinionated web framework for Node.js to handle server-side logic and API requests.
-- **Spotify API**: Used Spotify API to fetch records of artists and their albums.
-
+- Express.js
+- Spotify API
+- 
 ##  **Features**
 -  Search for artists.
 -  View detailed profiles of artists.
@@ -34,7 +34,9 @@ A simple web application that allows users to explore detailed information about
    ```bash
    http://localhost:5000
 
-# Screenshots
+### Screenshots
+---
+
 <img width="800" height="682" alt="image" src="https://github.com/user-attachments/assets/52f6332a-88f8-4257-92e2-49fbf7ddf5b8" />
 <img width="800" height="635" alt="image" src="https://github.com/user-attachments/assets/9f5e0603-7199-4591-8510-932d3f06dafe" />
 <img width="800" height="613" alt="image" src="https://github.com/user-attachments/assets/50714d82-ef44-454d-b796-c99b4cfc6894" />
