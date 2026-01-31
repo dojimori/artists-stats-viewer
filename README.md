@@ -11,7 +11,7 @@ A simple web application that allows users to explore detailed information about
 ### **Backend**
 - Express.js
 - Spotify API
-- 
+  
 ##  **Features**
 -  Search for artists.
 -  View detailed profiles of artists.
